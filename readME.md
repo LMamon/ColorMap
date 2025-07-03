@@ -1,4 +1,4 @@
-# 3D Color Map Visualizer (CPU + GPU)
+# 3D Color Map Visualizer
 
 A Python tool to visualize the distribution of an image's pixels in 3D color space (RGB or HSV).  
 Supports both:
@@ -10,7 +10,6 @@ Supports both:
 - Supports RGB and HSV color space mapping
 - Sample pixel subset for performance
 - Interactive GPU view with mouse drag/zoom/rotate
-- Optimized for Intel and Apple Silicon (M1/M2/M3) Macs
 
 ---
 
